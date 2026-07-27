@@ -15,6 +15,7 @@
 - Comfortable with C++, Java, C#, C, basic Assembly, Linux and Git
 - Also work with **Unity** for game dev
 - I like kebab
+- I don't like design (I AM NOT GOOD AT IT)
 
 ## Projects 📁
 
@@ -33,7 +34,6 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,java,cs,c,linux,git,unity" />
-  <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white" />
 </p>
 
 ## GitHub Stats 📊
