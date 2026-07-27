@@ -33,7 +33,7 @@
 ## Languages and Tools 🧰
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,cs,c,linux,git,unity" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,cs,c,python,linux,git,unity" />
 </p>
 
 ## GitHub Stats 📊
