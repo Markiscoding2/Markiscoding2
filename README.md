@@ -31,14 +31,14 @@
 ## GitHub Stats 📊
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Markiscoding2&show_icons=true&theme=radical&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markiscoding2&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Markiscoding2&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Markiscoding2&theme=react-dark" />
 </p>
