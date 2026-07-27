@@ -11,6 +11,7 @@
 ## About Me 🎓
 
 - Working towards a **Bachelor's in Computer Science**
+- I workout just as much as I code
 - Interested in **Cybersecurity**, **Theoretical Mathematics**, **Game Development**, **Robotics**, and **Databases**
 - Comfortable with C++, Java, C#, C, basic Assembly, Linux and Git
 - Also work with **Unity** for game dev
