@@ -8,11 +8,18 @@
 
 ---
 
+## About Me 🎓
+
+- 🎓 Working towards a **Bachelor's in Computer Science**
+- 🧠 Interested in **Cybersecurity**, **Theoretical Mathematics**, **Game Development**, **Robotics**, and **Databases**
+- 🛠️ Comfortable with C++, Java, C#, C, basic Assembly, Linux and Git
+- 🕹️ Also work with **Unity** for game dev
+
 ## Projects 📁
 
 - [**Pac-Man Recreation**](https://github.com/Markiscoding2/Pac-Man-Raylib) — my 12th-grade *atestat* project, a full Pac-Man clone built in **C++ with Raylib**.
 
-> Note: this is currently my only finished project most things I start don't make it to "done" yet, so this isn't the full picture of what I'm working on.
+> Note: this is currently my only finished project — most things I start don't make it to "done" yet, so this isn't the full picture of what I'm working on.
 
 ## Currently Learning 🌱
 
@@ -31,9 +38,14 @@
 ## GitHub Stats 📊
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Markiscoding2&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Markiscoding2&theme=react-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark" />
 </p>
