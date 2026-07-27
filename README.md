@@ -37,15 +37,9 @@
 
 ## GitHub Stats 📊
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" />
-</p>
+<img align="left" width="480" src="https://ghstats.dev/api/card?username=Markiscoding2&theme=sunset&border_radius=1" alt="GitHub Stats Card" />
+<img width="320" src="https://ghstats.dev/api/sparkline?username=Markiscoding2&theme=sunset&days=30&width=320&height=80" alt="Contribution Sparkline" />
+<br/>
+<img width="320" src="https://ghstats.dev/api/langs?username=Markiscoding2&theme=sunset&border_radius=4&layout=vertical_list" alt="Top Languages" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark" />
-</p>
+<br clear="left"/>
